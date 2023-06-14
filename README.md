@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>🌸 FiveM Developer<br> 🏵️ All my work is available here and is dedicated to Atrisia
-
+👋 Hi there<br>🌸 FiveM Developer<br> 🏵️ All my work is available here and is dedicated to Atrisia
 
 ## 🛒 Tebex Shop :
 https://aroily.tebex.io/
